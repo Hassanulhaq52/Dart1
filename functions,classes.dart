@@ -30,28 +30,28 @@
 
 
 
-// void main(){
+void main(){
 
-// var value = sum().add();
-// print(value);
+var value = sum().add();
+print(value);
 
-// }
+}
 
-// class sum{
+class sum{
 
-// int adding(int b , int c, int d) {
+int adding(int b , int c, int d) {
 
-// return b + c + d;
+return b + c + d;
 
-// }
+}
 
-// add() {
+add() {
 
-//  int a = adding(7, 8, 9);
+ int a = adding(7, 8, 9);
 
-//   print("The sum is: $a");
+  print("The sum is: $a");
 
-// }
+}
 
 
-// }
+}
